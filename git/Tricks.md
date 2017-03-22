@@ -32,5 +32,5 @@ git submodule add <git@github ...> lib/my-lib/
 * `git checkout [commit hash]`
 * Fix stuff
 * `git commit --amend`
-* `git push REFS/FOR/[BRANCH]` (if `CI==Jenkins`)
+* `git push REFS/FOR/[BRANCH]` (if CI==Jenkins)
 * `git checkout [previous branch]`
